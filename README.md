@@ -150,12 +150,20 @@ It's about understanding the problem, designing the right solution, and building
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=belalibrahim272-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12&utm_source=chatgpt.com" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=belalibrahim272-arch&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalibrahim272-arch&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
+
 </p>
 
 ---
