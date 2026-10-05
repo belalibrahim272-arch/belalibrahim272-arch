@@ -1,78 +1,102 @@
 <h1 align="center">Hi, I'm Belal Ibrahim 👋</h1>
 
 <h3 align="center">
-  💻 Web Developer | 🚀 Freelancer | 🧠 Problem Solver
+  💻 Web Developer · 🚀 Freelancer · 🧠 Problem Solver
 </h3>
 
 <p align="center">
-  I build modern, responsive and practical web applications.
+  Building modern, responsive and practical web applications.
 </p>
 
 <p align="center">
   <a href="https://belal.kesug.com">
-    <img src="https://img.shields.io/badge/Portfolio-belal.kesug.com-0b1329?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-belal.kesug.com-0b1329?style=for-the-badge" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Belal%20Ibrahim-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/belalibrahim272-arch">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Belal%20Ibrahim-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=belalibrahim272-arch&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```php
 class BelalIbrahim
 {
     public string $role = "Web Developer & Freelancer";
-    public string $language = "Arabic";
-    
-    public array $skills = [
+
+    public string $location = "Egypt 🇪🇬";
+
+    public array $mainStack = [
         "PHP",
-        "Java",
         "MySQL",
         "JavaScript",
         "HTML",
-        "CSS",
+        "CSS"
+    ];
+
+    public array $otherTechnologies = [
+        "Java",
         "Laravel",
         "WordPress",
         "Bootstrap",
-        "Git & GitHub"
+        "Git",
+        "GitHub"
     ];
 
     public string $goal =
-        "Building useful, modern and scalable web solutions";
+        "Building useful and scalable digital solutions";
 }
 ```
 
-I'm **Belal Ibrahim**, a Web Developer and Freelancer from Egypt 🇪🇬.
+I'm **Belal Ibrahim**, a Web Developer and Freelancer from **Egypt 🇪🇬**.
 
-I enjoy turning ideas and real-world problems into **functional, modern and user-friendly web applications**.
+I enjoy transforming ideas and real-world problems into **functional, modern and user-friendly web applications**.
 
-I mainly work with **PHP, MySQL, JavaScript, HTML and CSS**, while also working with **Laravel and WordPress** depending on the project.
+My main focus is **backend and full-stack web development**, with a strong interest in building business systems, e-commerce platforms, dashboards and custom web solutions.
+
+I mainly work with **PHP, MySQL, JavaScript, HTML and CSS**, while also using technologies such as **Laravel, WordPress and Bootstrap** when they fit the project.
 
 ---
 
-## 💼 What I Do
+## 🚀 What I Do
 
 * 🌐 Build modern and responsive websites
 * 🛒 Develop e-commerce platforms
-* 📊 Build dashboards and management systems
-* ⚙️ Develop PHP & MySQL web applications
-* 🔐 Create secure authentication systems
-* 🧩 Build custom admin panels
+* 📊 Build business and management systems
+* ⚙️ Develop PHP & MySQL applications
+* 🔐 Implement authentication and security
+* 🧩 Create custom admin dashboards
 * 🔌 Integrate APIs and external services
-* 🛠️ Fix, improve and maintain existing websites
-* 🚀 Turn ideas into real working projects
+* 📦 Build inventory and stock management systems
+* 🛠️ Debug, improve and maintain existing websites
+* 🚀 Turn ideas into real working products
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,mysql,js,html,css,bootstrap,laravel,wordpress,git,github,vscode" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,laravel" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,wordpress" />
 </p>
 
 ---
@@ -81,72 +105,98 @@ I mainly work with **PHP, MySQL, JavaScript, HTML and CSS**, while also working 
 
 ### 🛒 LAP-SHOP
 
-An e-commerce platform for laptops and computer products.
+**E-Commerce Platform for Laptops & Computer Products**
 
-**Built with:**
+A complete e-commerce platform focused on managing laptops and computer products.
+
+**Tech Stack**
 
 `PHP` `MySQL` `JavaScript` `HTML` `CSS` `Bootstrap`
 
-Features include:
+**Key Features**
 
 * 🛍️ Product management
 * 🛒 Shopping cart
 * 📦 Order management
 * 👨‍💼 Admin dashboard
-* 🖼️ Product images
+* 🖼️ Product image management
 * 💰 Pricing & tax management
 * 🚚 Shipping management
+* 📊 Store management
 
 ---
 
 ### 📦 Inventory Management System
 
-A management system designed to help businesses manage:
+**Business & Stock Management Platform**
 
-* 📦 Products
+A custom management system designed to help businesses manage products, stock, suppliers and reorder operations.
+
+**Tech Stack**
+
+`PHP` `MySQL` `PDO` `AJAX` `JavaScript` `Bootstrap`
+
+**Key Features**
+
+* 📦 Product management
 * 🏷️ Categories & brands
-* 📊 Stock
-* 🚨 Out-of-stock products
-* 👨‍💼 Suppliers
+* 📊 Stock tracking
+* 🚨 Out-of-stock management
+* 👥 Supplier management
 * 🔄 Reorder requests
 * 📈 Reports & statistics
-
-**Built with:**
-
-`PHP` `MySQL` `PDO` `AJAX` `Bootstrap` `JavaScript`
+* 🔐 Authentication & security
 
 ---
 
 ### 💻 Personal Portfolio
 
-My personal portfolio where I showcase my projects, skills and experience.
+**Developer Portfolio & Project Showcase**
 
-🌐 **Portfolio:**
+A personal platform for presenting my projects, skills and development work.
+
+🌐 **Visit my portfolio:**
+
 https://belal.kesug.com
 
 ---
 
-## 🧠 Currently Learning & Building
+## 🧠 Currently Building & Exploring
 
-I'm constantly improving my skills and working on new ideas around:
+I'm continuously learning and experimenting with new technologies and ideas around:
 
 * 🚀 SaaS Applications
-* 🤖 AI-powered applications
+* 🤖 AI-powered Applications
 * 🌐 Modern Web Applications
-* 📊 Business Management Systems
+* 📊 Business Automation
 * 🔗 APIs & Webhooks
-* 💳 Online Payments
+* 💳 Online Payment Systems
 * ☁️ Cloud & Deployment
+* 🧩 Scalable Backend Systems
 
 ---
 
-## 🎯 My Philosophy
+## 🎯 My Development Philosophy
 
 > **"Don't build features just because you can. Build what people actually need."**
 
-I believe good software is not only about writing code.
+Good software isn't only about writing code.
 
-It's about understanding the problem, designing the right solution, and building something that people can actually use.
+It's about:
+
+```text
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Build the Product
+        ↓
+Test & Improve
+        ↓
+Deliver Real Value
+```
+
+I focus on building solutions that are **useful, maintainable and practical**.
 
 ---
 
@@ -160,15 +210,9 @@ It's about understanding the problem, designing the right solution, and building
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalibrahim272-arch&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
-
-</p>
-
 ---
 
-## 💻 Development Stack
+## 💻 Development Environment
 
 ```text
 Frontend
@@ -194,20 +238,70 @@ Tools
 
 ---
 
+## 🌱 Currently Improving
+
+* 🧠 Software Architecture
+* 🔐 Web Security
+* ⚡ Backend Performance
+* 🗄️ Database Design
+* 🔌 API Development
+* 🤖 AI Integration
+* ☁️ Deployment & Infrastructure
+* 📈 Scalable Application Development
+
+---
+
 ## 🤝 Let's Work Together
 
 I'm available for **freelance web development projects**.
 
-If you have an idea, website, business system or an existing project that needs development, feel free to reach out.
+I can help with:
+
+```text
+✓ Business Websites
+✓ E-Commerce Platforms
+✓ Custom Web Applications
+✓ Management Systems
+✓ Inventory Systems
+✓ Admin Dashboards
+✓ PHP & MySQL Development
+✓ WordPress Development
+✓ API Integrations
+✓ Existing Website Improvements
+```
+
+Have an idea or a project that needs development?
 
 ### 🚀 Let's build something useful together.
 
 ---
 
-<p align="center">
-  <b>💻 Web Developer | 🚀 Freelancer | 🇪🇬 Egypt</b>
-</p>
+## 📫 Connect With Me
 
 <p align="center">
-  Made with ❤️ by <b>Belal Ibrahim</b>
+
+<a href="https://belal.kesug.com">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0b1329?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/belalibrahim272-arch">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<b>💻 Web Developer · 🚀 Freelancer · 🇪🇬 Egypt</b>
+
+<br><br>
+
+<i>Build. Solve. Improve.</i>
+
+<br><br>
+
+Made with ❤️ by <b>Belal Ibrahim</b>
+
 </p>
